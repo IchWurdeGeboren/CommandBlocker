@@ -1,6 +1,6 @@
-package de.ichwurdegeboren.plotrating.listener;
+package de.ichwurdegeboren.commandblocker.listener;
 
-import de.ichwurdegeboren.plotrating.CommandBlockPlugin;
+import de.ichwurdegeboren.commandblocker.CommandBlockPlugin;
 import org.bukkit.ChatColor;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;

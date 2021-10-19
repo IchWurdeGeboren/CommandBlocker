@@ -1,7 +1,7 @@
-package de.ichwurdegeboren.plotrating;
+package de.ichwurdegeboren.commandblocker;
 
-import de.ichwurdegeboren.plotrating.listener.PlayerCommandPreprocessListener;
-import de.ichwurdegeboren.plotrating.listener.TabCompleteListener;
+import de.ichwurdegeboren.commandblocker.listener.PlayerCommandPreprocessListener;
+import de.ichwurdegeboren.commandblocker.listener.TabCompleteListener;
 import lombok.SneakyThrows;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
